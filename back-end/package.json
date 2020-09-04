@@ -16,7 +16,7 @@
     "express": "^4.16.2",
     "jade": "~1.11.0",
     "gdal": "^0.9.6",
-    "mongodb": "^2.2.25",
+    "mongodb": "^3.6.1",
     "monk": "^4.0.0",
     "morgan": "~1.10.0",
     "serve-favicon": "~2.3.2",
